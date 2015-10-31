@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>Seleccione</item>
+        <item>Pizarra</item>
+        <item>Plumón</item>
+        <item>Motta</item>
+    </string-array>
+</resources>
