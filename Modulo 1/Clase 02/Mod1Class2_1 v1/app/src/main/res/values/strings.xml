@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mod1Class2_1</string>
+
+    <string name="texto_uno">Texto Uno</string>
+    <string name="texto_dos">Texto Dos</string>
+    <string name="texto_tres">Texto Tres</string>
+    <string name="texto_cuatro">Texto Cuatro</string>
+    <string name="grabar">Grabar</string>
+
+    <string name="validacion">Ingrese todos los campos</string>
+</resources>

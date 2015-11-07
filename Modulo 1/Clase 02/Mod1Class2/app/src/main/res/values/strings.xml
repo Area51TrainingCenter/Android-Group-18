@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mod1Class2</string>
+
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingrese_contrasenia">Ingrese Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="atras">Atras</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="salir">Salir</string>
+
+    <string name="mensaje_validacion">Debe de ingresar todos los campos</string>
+</resources>
