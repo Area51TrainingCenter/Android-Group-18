@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mod1Class3</string>
+
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="direccion">Ingrese Direccion</string>
+    <string name="grabar">Grabar</string>
+    <string name="listado">Listado</string>
+</resources>
