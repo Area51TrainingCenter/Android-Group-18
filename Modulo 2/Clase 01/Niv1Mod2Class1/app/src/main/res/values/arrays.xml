@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estadoCivil">
+        <item>Seleccione</item>
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Viudo</item>
+        <item>Desarrollador :D</item>
+    </string-array>
+</resources>
