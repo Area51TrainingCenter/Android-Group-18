@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/johannfjs/AndroidStudioProjects/Niv1Mod2Class2/MenuLateral/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "/Users/johannfjs/AndroidStudioProjects/Niv1Mod2Class2/MenuLateral/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            }
+        ]
+    }
+]
